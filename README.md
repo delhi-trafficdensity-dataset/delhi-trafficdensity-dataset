@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello and Namaste 👋
+
+#### This webpage provides link to the traffic density dataset collected from busy traffic intersection in Delhi. 
 
 <!--
 **delhi-trafficdensity-dataset/delhi-trafficdensity-dataset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
