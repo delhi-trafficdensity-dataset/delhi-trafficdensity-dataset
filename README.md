@@ -1,3 +1,5 @@
+% Delhi Traffic Density Dataset
+
 ## Delhi Traffic Density Dataset
 
 The traffic density dataset is collected from busy traffic intersection in Delhi between Sep to Dec 2020. 
@@ -58,7 +60,7 @@ Below is a snapshot of the data from Sep 12, 2020.
 Above image shows the state of traffic data available from the intersection. 
 As we see, we have a full working system only for 40 days.
 On other days, there were issues like camera power failure, power adaptor failure, 
-communication line failure between camera and compute device, 
+communication line failure between camera and compute device, compute device hang or power off, etc.
 
 ### Distribution of Hourly densities for the 3 approaches
 
