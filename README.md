@@ -1,5 +1,3 @@
-% https://delhi-trafficdensity-dataset.github.io
-
 ## Delhi Traffic Density Dataset
 
 The traffic density dataset is collected from busy traffic intersection in Delhi between Sep to Dec 2020. 
